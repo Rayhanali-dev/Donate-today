@@ -175,4 +175,59 @@ hr {
     line-height: 24px;
     padding-right: 40px;
 }
+
 /* donate plan part end */
+
+/* donation depend on part start */
+
+.donation-depend {
+    margin-bottom: 100px;
+}
+
+.donation-depend-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.donation-depend-title {
+    font-size: 45px;
+    font-weight: 700;
+    color: #121212;
+    padding-right: 90px;
+    margin-bottom: 20px;
+}
+
+.donation-depend-first-description {
+    font-size: 18px;
+    font-weight: 400;
+    color: #707070;
+    line-height: 28px;
+    margin-bottom: 20px;
+    padding-right: 195px;
+}
+
+.donation-depend-second-description {
+    font-size: 18px;
+    font-weight: 400;
+    color: #707070;
+    line-height: 28px;
+    margin-bottom: 20px;
+    padding-right: 195px;
+}
+
+.donation-second-wrapper {
+    flex-direction: row-reverse;
+    display: flex;
+    gap: 95px;
+    align-items: center;
+}
+
+/* .donation-depend-left {
+    width: 50%;
+}
+
+.donation-depend-right {
+    width: 50%;
+} */
+
+/* donation depend on part end */
